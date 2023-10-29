@@ -1,4 +1,4 @@
-# How to user FirebaseParent?
+# How to use FirebaseParent?
 
 ## What is the purpose?
 
